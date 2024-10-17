@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrNmGMVx_q7pm7uc7-VHAbIkfISrgD1osEnA&s",TIME TELEVISION
+https://app.jagobd.com.bd/live-orgin/timetvusa.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/tvs6/livetv/refs/heads/main/img/channels/thechanneltv.png",THE CHANNEL TV
+https://app.jagobd.com.bd/live-orgin/thechanneltv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB5BvpXZ2hQk4gzD7Fx_LWlEYzxXXTR2otIA&s",CHANNEL EUROPE
+https://app.jagobd.com.bd/live-orgin/channeleurope.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/bYSFJHG9/20240822-230812.png",𝘿𝙚𝙚𝙥𝙩𝙤 𝙏𝙑
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2349.m3u8 ?
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/mr68ZtBn/20240822-231053.png",𝙈𝙊𝙑𝙄𝙀 𝘽𝘼𝙉𝙂𝙇𝘼
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/wB9kQDTZ/20240822-225812.png",𝙈𝙔 𝙏𝙑
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2361.m3u8 
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/rsDjtcFp/20240822-225424.png",𝙀𝙏𝙑 𝘽𝘼𝙉𝙂𝙇𝘼
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/0QRnM89n/20240825_071012.png",𝙍𝙖𝙟𝙙𝙝𝙖𝙣𝙞 𝙏𝙑
+https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/jdgh66sL/20240825_071205.png",𝘿𝙚𝙨𝙝𝙞 𝙏𝙑
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/W4JX3szb/20240823_024759.png",𝙄𝙎𝙇𝘼𝙈 𝘽𝙖𝙣𝙜𝙡𝙖
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
